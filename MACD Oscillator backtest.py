@@ -12,7 +12,7 @@ Created on Tue Feb  6 11:57:46 2018
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import fix_yahoo_finance as yf
+import yfinance as yf
 
 
 

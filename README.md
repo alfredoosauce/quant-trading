@@ -97,9 +97,9 @@ For the strategy itself, we compute long term moving average and short term movi
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/MACD%20Oscillator%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/macd%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\macd oscillator.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/macd%20oscillator.png)
+![alt text](C:\Users\15128\quant-trading\preview\macd positions.png)
 
 ### 2. Pair trading
 
@@ -109,9 +109,9 @@ The core idea of pair trading is <a href=https://en.wikipedia.org/wiki/Cointegra
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Pair%20trading%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/pair%20trading%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\pair%20trading%20positions.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/pair%20trading%20asset.png)
+![alt text](C:\Users\15128\quant-trading\preview\pair%20trading%20asset.png)
 
 ### 3. Heikin-Ashi candlestick
 
@@ -123,9 +123,9 @@ The rules of Heikin-Ashi can be found in <a href=https://quantiacs.com/Blog/Intr
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Heikin-Ashi%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/heikin-ashi%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\heikin-ashi%20positions.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/heikin-ashi%20asset%20value.png)
+![alt text](C:\Users\15128\quant-trading\preview\heikin-ashi%20asset%20value.png)
 
 ### 4. London Breakout
 
@@ -139,9 +139,9 @@ For the strategy itself, we establish upper and lower thresholds prior to the hi
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/London%20Breakout%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/london%20breakout%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\london%20breakout%20positions.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/london%20breakout%20thresholds.png)
+![alt text](C:\Users\15128\quant-trading\preview\london%20breakout%20thresholds.png)
 
 ### 5. Awesome oscillator
 
@@ -153,13 +153,13 @@ The rules of awesome oscillator could be found in <a href=https://www.tradingvie
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Awesome%20Oscillator%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/awesome%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\awesome%20positions.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/awesome%20oscillator.png)
+![alt text](C:\Users\15128\quant-trading\preview\awesome%20oscillator.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/awesome%20ma.png)
+![alt text](C:\Users\15128\quant-trading\preview\awesome%20ma.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/awesome%20asset.png)
+![alt text](C:\Users\15128\quant-trading\preview\awesome%20asset.png)
 
 ### 6. Oil Money project
 
@@ -181,7 +181,7 @@ Rules of dual thrust can be found in <a href=https://www.quantconnect.com/tutori
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Dual%20Thrust%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/dual%20thrust%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\dual%20thrust%20positions.png)
 
 ### 8. Parabolic SAR
 
@@ -193,7 +193,7 @@ It is worth mentioning that SAR and RSI (which will be featured in a later chapt
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Parabolic%20SAR%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/parabolic%20sar%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\parabolic%20sar%20positions.png)
 
 ### 9. Bollinger Bands Pattern Recognition
 
@@ -209,15 +209,15 @@ More details of Bollinger Bands can be found in <a href=https://www.tradingview.
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Bollinger%20Bands%20Pattern%20Recognition%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/bollinger%20bands%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\bollinger%20bands%20positions.png)
 
 ### 10. Relative Strength Index Pattern Recognition
 
 RSI (Relative Strength Index) is also a popular indicator. It reflects the current strength/weakness of the stock price momentum. The calculation is pretty straight forward. We use 14 days of smoothed moving average (or other moving average methods) to separately calculate the intra daily uptrend and downtrend. We denote uptrend moving average divided by downtrend moving average as the relative strength. We normalize the relative strength by 100 which becomes an index called RSI. It is commonly believed that RSI above 70 is overbought and RSI below 30 is oversold. This is the simplest way to trade on RSI (as shown in the pictures below). Nonetheless, there could be divergence between RSI momentum and price momentum which will not be covered in the script. The effectiveness of any divergence strategy on RSI is rather debatable.
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/rsi%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\rsi%20positions.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/rsi%20oscillator.png)
+![alt text](C:\Users\15128\quant-trading\preview\rsi%20oscillator.png)
 
 If you are looking for something slightly more complex, well, we can apply pattern recognition technique to RSI as well. Unlike strategy No.9 Bollinger Bands, we can directly look at the patterns of RSI itself instead of the price. Since we have tested double bottom pattern in Bollinger Bands, we would test head-shoulder pattern on RSI this time.
 
@@ -225,9 +225,9 @@ For details of head-shoulder pattern, please refer to <a href=https://www.invest
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/RSI%20Pattern%20Recognition%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/rsi%20pattern%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\rsi%20pattern%20positions.png)
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/rsi%20pattern%20oscillator.png)
+![alt text](C:\Users\15128\quant-trading\preview\rsi%20pattern%20oscillator.png)
 
 ### 11. Monte Carlo project
 
@@ -237,7 +237,7 @@ Here comes the argument on Linkedin that caught my eyes the other day. "Stock pr
 
 *For more details, please refer to the <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Monte%20Carlo%20project/README.md>read me</a> page of a separate directory or <a href=https://je-suis-tm.github.io/quant-trading/monte-carlo>quant trading</a> section on my personal blog.*
 
-![alt text](https://raw.githubusercontent.com/je-suis-tm/quant-trading/master/Monte%20Carlo%20project/preview/ge%20simulation2.png)
+![alt text](C:\Users\15128\quant-trading\Monte%20Carlo%20project/preview/ge%20simulation2.png)
 
 ### 12. Options Straddle
 
@@ -249,7 +249,7 @@ The crucial element of options straddle is the selection of the strike price. As
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Options%20Straddle%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/options%20straddle%20payoff%20diagram.png)
+![alt text](C:\Users\15128\quant-trading\preview\options%20straddle%20payoff%20diagram.png)
 
 ### 13. Portfolio Optimization project
 
@@ -267,7 +267,7 @@ I know a lot of you have complained that this repository isn’t quantitative en
 
 The project per se intends to leverage convex optimization to approximate farmers’ plantation planning for different crops. Assuming farmers are Homo Economicus, their end game is to maximize the profit regarding the price impact from supply and demand. Their decision is constrained by arable land area and biological features of crops. We develop this smart model accordingly to acquire a head start in trading :rice: :coffee: and :chocolate_bar:
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/Smart%20Farmers%20project/preview/oil%20palm%20vs%20palm%20oil.png)
+![alt text](C:\Users\15128\quant-trading\Smart%20Farmers%20project/preview/oil%20palm%20vs%20palm%20oil.png)
 
 *For more details, please refer to the <a href=https://github.com/je-suis-tm/quant-trading/tree/master/Smart%20Farmers%20project/README.md>read me page</a> of a separate directory or <a href=https://je-suis-tm.github.io/quant-trading/smart-farmers>quant trading section</a> on my personal blog.*
 
@@ -275,15 +275,15 @@ The project per se intends to leverage convex optimization to approximate farmer
 
 VIX is the fear gauge of S&P 500 index. By using <a href=https://www.mathopenref.com/calcriemann.html>Riemann sum</a> and <a href=https://www.emathhelp.net/notes/calculus-1/taylor-formula>Taylor series expansion</a>, we are able to convert a continuous fair price variance swap to a discrete options volatility index, which is called VIX. VIX is determined by two components, 3-week-ahead weekly S&P 500 options and one-month-ahead monthly S&P 500 options. It is de facto market anticipated volatility of S&P 500 index in 30 days. So far it has been applied to some stock exchange indices and some forex pairs. Since VIX is such a great risk management tool, why don’t we apply it to any asset with options contract? The objective of this script is to create a VIX calculator for any commodity options within any given length of forecast time horizon.
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/vix%20calculator.PNG)
+![alt text](C:\Users\15128\quant-trading\preview\vix%20calculator.PNG)
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/VIX%20Calculator.py>here</a> to be redirected to the script.*
 
 ### 16. Wisdom of Crowds Project
 
-Every now and then, we read some bulge brackets hit the headline, “XXX will reach 99999€ in 20YY”. Some forecasts hit the bull’s eye but most projections are as accurate as astrology. Price prediction can be easily influenced by the cognitive bias. In the financial market, there is merit to the idea that <a href=https://www.investopedia.com/terms/c/consensusestimate.asp>consensus estimate</a> is the best oracle. By harnessing the power of ensemble learning, we are about to leverage <a href=https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/dawid%20skene.ipynb>Dawid-Skene model</a> and <a href=https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/platt%20burges.ipynb>Platt-Burges model</a> to eliminate the idiosyncratic noise associate with each individual judgement. The end game is to reveal the underlying intrinsic value generated by the collective knowledge of research analysts from different investment banks. Is wisdom of crowds a crystal ball for trading? 
+Every now and then, we read some bulge brackets hit the headline, “XXX will reach 99999€ in 20YY”. Some forecasts hit the bull’s eye but most projections are as accurate as astrology. Price prediction can be easily influenced by the cognitive bias. In the financial market, there is merit to the idea that <a href=https://www.investopedia.com/terms/c/consensusestimate.asp>consensus estimate</a> is the best oracle. By harnessing the power of ensemble learning, we are about to leverage <a href=https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/dawid%20skene.ipynb>Dawid-Skene model</a> and <a href=https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/platt%20burges.ipynb>Platt-Burges model</a> to eliminate the idiosyncratic noise associate with each individual judgement. The end game is to reveal the underlying intrinsic value generated by the collective knowledge of research analysts from different investment banks. Is wisdom of crowds a crystal ball for trading?
 
-![alt text](https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/preview/y1%20forecast%20bias.png)
+![image](https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/preview/y1%20forecast%20bias.png)
 
 *This project is documented in the repository of <a href=https://github.com/je-suis-tm/machine-learning>Machine Learning</a>. For more details, please refer to the <a href=https://github.com/je-suis-tm/machine-learning/blob/master/Wisdom%20of%20Crowds%20project/README.md>read me</a> page of a separate directory or <a href=https://je-suis-tm.github.io/machine-learning/wisdom-of-crowds>machine learning</a> section on my personal blog.*
 
@@ -298,7 +298,7 @@ A sibling of shooting star is called hammer which is effectively a vertical flip
 
 *Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/Shooting%20Star%20backtest.py>here</a> to be redirected to the script.*
 
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/shooting%20star%20positions.png)
+![alt text](C:\Users\15128\quant-trading\preview\shooting%20star%20positions.png)
 
 <br>
 
